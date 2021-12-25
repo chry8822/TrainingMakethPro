@@ -9,7 +9,7 @@
 
 
 
-### 내용 및 목적 (Content)  
+## 내용 및 목적 (Content)  
 * 전문가가 되기 위해서 얼마나 훈련해야 하는지 알려주는 페이지.
 * 직업과 하루 훈련시간을 입력하면 몇일 동안 훈련해야 전문가가 되는지 알려줍니다.  
   
@@ -18,7 +18,7 @@
 
 
 
-### 기능 (Function)  
+## 기능 (Function)  
 * 사용자의 직업과 훈련 시간 입력
 * 입력 받은 내용을 결과로 도출
 * 훈련하러 가기 버튼 클릭시 반전 등장
@@ -29,7 +29,7 @@
 
 
 
-### 기술 스택 (Tech stack)  
+## 기술 스택 (Tech stack)  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -40,7 +40,7 @@
 
 
 
-### 느낀점 그리고 문제점 (epilogue)  
+## 느낀점 그리고 문제점 (epilogue)  
 <br>
 
 * 시멘틱한 마크업 구조를 짜기 위해서 노력했고 후에 강사님의 코드와 어떤점이 다른지 왜 쓰였는 지에 대해서 비교하면서 작업했고 마크업 구조에 대해서 좀더 이해하는 시간이 되었습니다.
